@@ -1,0 +1,6 @@
+{
+  "name": "Balarampur Eats",
+  "description": "Premium Food Delivery Application for Balarampur, Purulia, West Bengal, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
